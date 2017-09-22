@@ -16,4 +16,6 @@ A bash script that tests ping time for common DNS servers
 
 Download, and run ./dnsspeedtest.sh. If you are on Windows 10, the Bash for Windows should work as well.
 
-Feel free to add any dns servers you come across, I just looked up a few of the more common ones.
+Feel free to add any dns servers you come across, I just looked up a few of the more common ones. The only ting I ask is to maintain the same format in the dnstest.txt file for clean output when the program is run.
+
+Thanks!

@@ -2,6 +2,8 @@ Google		Primary  : 8.8.8.8
 Google		Secondary: 8.8.4.4	   
 OpenDNS		Primary  : 208.67.222.222  
 OpenDNS		Secondary: 208.67.220.220  
+Clodflare	Primary  : 1.1.1.1	   
+Clodflare	Secondary: 1.0.0.1	   
 Level3		Primary  : 209.244.0.3	   
 Level3		Secondary: 209.244.0.4	   
 Verisign	Primary  : 64.6.64.6	   
